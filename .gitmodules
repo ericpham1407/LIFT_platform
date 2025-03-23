@@ -1,3 +1,21 @@
 [submodule "design"]
 	path = design
 	url = git@github.com:MPC-Berkeley/onr_luci_design.git
+[submodule "optitrack_client"]
+	path = optitrack_client
+	url = https://github.com/ericpham1407/optitrack_client.git
+[submodule "mpclab_msgs"]
+	path = mpclab_msgs
+	url = https://github.com/ericpham1407/mpclab_msgs.git
+[submodule "mpclab_estimation"]
+	path = mpclab_estimation
+	url = https://github.com/ericpham1407/mpclab_estimation.git
+[submodule "mpclab_controller"]
+	path = mpclab_controller
+	url = https://github.com/ericpham1407/mpclab_controller.git
+[submodule "mpclab_common"]
+	path = mpclab_common
+	url = https://github.com/ericpham1407/mpclab_common.git
+[submodule "barc_launch"]
+	path = barc_launch
+	url = https://github.com/ericpham1407/barc_launch.git
