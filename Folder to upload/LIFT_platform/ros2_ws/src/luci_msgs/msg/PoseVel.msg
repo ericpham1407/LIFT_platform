@@ -1,4 +1,0 @@
-Position x
-OrientationQuaternion q
-BodyLinearVelocity v
-BodyAngularVelocity w

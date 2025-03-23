@@ -1,5 +1,0 @@
-/**:
-  ros__parameters:
-    # The parameters below are all for RFS
-    utm_origin_lon: -122.3330762
-    utm_origin_lat: 37.9150653
