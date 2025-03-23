@@ -1,0 +1,34 @@
+/**:
+  ros__parameters:
+    pub_count: 3
+    utm_origin_lon: 0.0
+    utm_origin_lat: 0.0
+    gps_config:
+      verbose: True
+      reconnect_interval: 1
+      baudrate: 921600
+      serial_timeout: 1
+      usb_identifier: 'u-blox GNSS receiver'
+      gps_address: 'LOADING_SUCCESSFUL'
+    pose_vel:
+      x:
+        xi: 0.0
+        xj: 0.0
+        xk: 0.0
+      q:
+        qr: 1.0
+        qi: 0.0
+        qj: 0.0
+        qk: 0.0
+      v:
+        v1: 0.0
+        v2: 0.0
+        v3: 0.0
+      w:
+        w1: 0.0
+        w2: 0.0
+        w3: 0.0
+    test_enum: 0
+    test_struct:
+      test_mode: 0
+      test_foo: 0

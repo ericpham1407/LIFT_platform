@@ -1,0 +1,5 @@
+/**:
+  ros__parameters:
+    # The parameters below are for memorial glade.
+    utm_origin_lon: -122.25938391119264
+    utm_origin_lat: 37.873190326044515
