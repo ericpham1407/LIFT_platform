@@ -1,0 +1,23 @@
+/experiment/LIFT/est_state:
+  reliability: best_effort
+  history: keep_all
+
+/experiment/LIFT/state_input_log:
+  reliability: best_effort
+  history: keep_all
+
+/experiment/LIFT/ecu:
+  reliability: best_effort
+  history: keep_all
+
+/experiment/LIFT/optitrack/odom:
+  reliability: best_effort
+  history: keep_all
+
+/experiment/LIFT/pred:
+  reliability: best_effort
+  history: keep_all
+
+/experiment/LIFT/ss:
+  reliability: best_effort
+  history: keep_all

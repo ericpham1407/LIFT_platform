@@ -1,0 +1,10 @@
+uint8 motor
+uint8 mode
+uint8 fault
+float64 position
+float64 velocity
+float64 torque
+float64 q_current
+float64 d_current
+float64 voltage
+float64 temperature

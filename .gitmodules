@@ -1,0 +1,3 @@
+[submodule "design"]
+	path = design
+	url = git@github.com:MPC-Berkeley/onr_luci_design.git
